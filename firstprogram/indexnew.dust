@@ -1,0 +1,8 @@
+<div class="greeting">
+    Hello, {recipient.name}!
+    Test hello
+</div>
+Calculation:<br />
+<form name="addval" action="resultvalue" method="POST">
+<input type="text" name="x1">+<input type="text" name="x2">=<input type="submit" value="total" name="r1">
+</form>
